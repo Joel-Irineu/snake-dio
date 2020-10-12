@@ -96,3 +96,7 @@ function iniciarJogo(){
 }
 
 let jogo = setInterval(iniciarJogo, 100)
+
+function reload(){
+    snake[0]
+}

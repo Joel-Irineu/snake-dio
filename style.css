@@ -1,0 +1,12 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto&display=swap";
+body{
+    width: 95;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #7afc76;
+    font-family: 'Roboto', sans-serif;
+    background: #262626;
+}
